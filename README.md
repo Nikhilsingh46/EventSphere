@@ -44,3 +44,27 @@ EventSphere is a **Collaborative Event Management Platform** designed to streaml
 5. **Run the Project:**
    - Deploy the project on Apache Tomcat Server
    - Access it via `http://localhost:8080/EventSphere`
+  
+---
+
+## 👨‍💻 Author
+
+**Nikhil Kumar**  
+B.Tech in Computer Science and Technology  
+St. Andrews Institute of Technology and Management (SAITM), Gurgaon  
+
+---
+
+## 📌 Notes
+
+- Currently built for a **single college system**
+- Future scope includes:
+  - Multi-college event support
+  - Ticket booking system
+  - Notification and reminder module
+
+---
+
+## 📃 License
+
+This project is for academic use as part of the pre-final year minor project submission at SAITM.
