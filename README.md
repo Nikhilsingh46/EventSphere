@@ -67,4 +67,4 @@ St. Andrews Institute of Technology and Management (SAITM), Gurgaon
 
 ## 📃 License
 
-This project is for academic use as part of the pre-final year minor project submission at SAITM.
+This project is for academic use as part of the final year major project submission at SAITM.
