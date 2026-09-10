@@ -1,4 +1,4 @@
-# EventSphere 🎉
+# EventSphere by Nikhil 🎉
 
 EventSphere is a **Collaborative Event Management Platform** designed to streamline how events are organized and experienced within a college campus. From showcasing events to managing volunteers and gathering feedback, EventSphere serves as a one-stop platform for both users and admins.
 
